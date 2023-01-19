@@ -8,13 +8,15 @@
 
 $from = 'damien.deboudt@sfr.fr';
 $to = 'foxhyzi@gmail.com';
+
+/*
 $message = 'Hello World, sending a simple mail !';
 // TODO Votre code ici.
 mail($to, 'Sujet: un Test', $message);
-
+*/
 
 echo '<br><br>';
-/**
+/*
  * 4. Commentez le code précédent, mais gardez les variables $from et $to
  * 5. Définissez un message long d'au moins 120 caractères au choix.
  * 6. Faites en sorte de couper la phrase puisqu'elle fera plus de 70 caractères
@@ -26,7 +28,7 @@ echo '<br><br>';
  *     N'écrasez pas les valeurs déjà existantes ( s'il y en a ).
  */
 // TODO Votre code ici.
-/*
+
 $message2 = "je pense être un message contenant plus de 70 caractères au minimum, il fait froid aujourd'hui, le vent
 est glacial mais le soleil essaye de percer malgrès tout";
 
